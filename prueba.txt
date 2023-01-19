@@ -2,4 +2,6 @@ Esta version es una version de prueba
 
 Las versiones de pruebas son divertidas 
 
+Prueba para probar los rm y reset
+
 Fin de la version
