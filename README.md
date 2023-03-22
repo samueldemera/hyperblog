@@ -8,7 +8,7 @@ este es un ejemplo de lo que se puede llegar hacer aprendiendo
 * El flujo de trabajo en GitHub
 * El verdadero amor por las buenas prácticas 
 * Incluye ejemplos en Windows, Linux y Mac
-
+* Disponible para todas las edades
 
 
 
