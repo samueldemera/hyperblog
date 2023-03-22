@@ -7,6 +7,8 @@ este es un ejemplo de lo que se puede llegar hacer aprendiendo
 * Todos los comando de Git 
 * El flujo de trabajo en GitHub
 * El verdadero amor por las buenas prácticas 
+* Incluye ejemplos en Windows, Linux y Mac
+
 
 
 
